@@ -11,7 +11,7 @@ as part of<br>
 for<br>
 <font size= "5"> Team ### </font><br>
 
-**Submission: month, DDD, YYYY**
+**Submission: month, DD, YYYY**
 </center>
 
 ## Introduction
