@@ -20,7 +20,7 @@ title: Component Selection Example
 
 
 
-*Table 1: Op Amp*
+*Table 2: Op Amp*
 
 **Internal Weight limit module**
 
