@@ -13,8 +13,8 @@ List of all needed individual aprts for the individual schematics, prices and de
 
 | **Part Name/Description** | **Qty** | **Unit Cost** | **Total Cost** | **Manufacture** | **Manufacturer #** | **Vendor Link** |**Datasheet Link** | **Schematic Reference Designators** |
 |:--------------------|:----|:---------------|:-----|:--------|:-----|:-----|:----|:-----|
-Capacitive Force Sensor 8 mm 100 N (22 lbs), SOIC-16 package | 1 | $37.50 | $ 37.50 | S8-100N | RB-Pre-01 | [DigiKey](https://www.robotshop.com/products/capacitive-force-sensor-8-mm-100-n-22-lbs) | [datasheet link](https://cdn.robotshop.com/media/p/pre/rb-pre-01/pdf/singletact_manual.pdf) | U1 |
-0.1 µF Ceramic Capacitor, +/-10%, X7R, 50V, 0805 package |10 | 0.2750 | $2.75 | KEMET | C0805F104K5RACTU | PRLTA 109 |n/a | C2, C4, C6, C7, C8, C9, C10, C11, C12, C16
+Capacitive Force Sensor 8 mm 100 N (22 lbs), SOIC-16 package | 1 | $37.50 | $ 37.50 | S8-100N | RB-Pre-01 | [DigiKey](https://www.robotshop.com/products/capacitive-force-sensor-8-mm-100-n-22-lbs) | [datasheet link](https://cdn.robotshop.com/media/p/pre/rb-pre-01/pdf/singletact_manual.pdf) | RAp |
+MCP6004-I/P |1 | $0.59 | $0.59 | MCP6004 | MCP6004-I/P | [DigiKey](https://www.digikey.com/en/products/detail/microchip-technology/MCP6004-I-P/523060) |n/a | RA0
 
 Note: Setting it up as a table is nice because it is completely viewable without scaling issues. <ins>Downside</ins> is that you have to do the math.
 
