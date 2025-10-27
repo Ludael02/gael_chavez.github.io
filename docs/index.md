@@ -7,28 +7,23 @@ tags:
 <center>
 <font size= "6">(Gael Chavez) Datasheet</font><br>
 as part of<br>
-<font size= "8"> Project Name ##</font><br>
+<font size= "8"> Trash Canner</font><br>
 for<br>
 <font size= "5"> Team 207 </font><br>
 
-**Submission: September, 03, 2025**
-</center>
+
 
 ## Introduction
 
-* This needs to be updated so that a reader gets an idea of the purpose of this datasheet.
+* This individual datasheet was designed as one of four parts that will make up the final product in this EGR304 course. This GitHub contains most of the entire development process for this individual component.
 
 ### Project Summary
 
-* This needs to be updated to reflect <ins>your version</ins> of the team project, so when shared not via the team's report, the reader gets an idea of the direction of the project and how your work will contribute to the overall success.
-* Add context that ties into the link to your [team report.](https://embedded-systems-design.github.io/EGR304TeamTemplate/)
+This project aims to assist in the separation and organization of trash in homes and selected locations. This individual design helps this project by processing the weight of the trash and transforming that value into a visual representation for the user.
+
+ [team report.](https://asu-egr304-2025-f-207.github.io)
 
 
 ### My Contribution
 
-* This needs to be updated to reflect a team introduction
-* Content should also help an unfamiliar reader navigate to areas of interest. Information like:
-
-To review the details listed of the material used to construct the subsection, you can review it in the ["BOM"](https://embedded-systems-design.github.io/EGR304DataSheetTemplate/03-BOM/BOM/) section of the datasheet.
-
-For all the sections
+To review the details about how this individual project works together with the other three projects go to ["EGR 304 Team 207 Report"](https://asu-egr304-2025-f-207.github.io) 
