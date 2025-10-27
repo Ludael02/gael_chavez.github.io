@@ -4,13 +4,8 @@ title: Schematic
 
 ## Overview
 
-This schematic is design to support .... (highlight functionally, power, and controller).
+This schematic is design to support the second sub-systems (the LED Scale), this system register the signal from the distance sensor and the force sensor at the same time and compares them to deliver a visual representation through a LED scale.
 
+## Schematic
 
-![schematic](Screenshot.png){style width:"350" height:"300;"}
-**Figure ##:** Showing a example schematic.
-
-
-## Resouces
-
-The schematic as a PDF download is available [*here*](ExampleSchematic.pdf), and the Zip folder of the project [*here*](dummyZip.zip).
+Later today
