@@ -8,4 +8,4 @@ tags:
 
 ## Individual Block Diagram 
 
-![Individual Block Diagram](https://raw.githubusercontent.com/Ludael02/gael_chavez.github.io/refs/heads/main/image_2025-10-27_124528011.png)
+![Individual Block Diagram](https://raw.githubusercontent.com/Ludael02/gael_chavez.github.io/df065a4797c191903c5f75d1e766b003a67ab8cb/image_2025-10-31_192708682.png)

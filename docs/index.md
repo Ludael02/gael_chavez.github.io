@@ -26,4 +26,4 @@ This project aims to assist in the separation and organization of trash in homes
 
 ### My Contribution
 
-To review the details about how this individual project works together with the other three projects go to ["EGR 304 Team 207 Report"](https://asu-egr304-2025-f-207.github.io) 
+In this Team assignment, I designed the main section of the LED Scale subsystem involving the force sensor. To review the details about how this individual project works together with the other three projects go to ["EGR 304 Team 207 Report"](https://asu-egr304-2025-f-207.github.io) 
