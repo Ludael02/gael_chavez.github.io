@@ -1,5 +1,5 @@
 ---
-title: MPLabX
+title: PCB
 ---
 
 ## Overview
