@@ -12,7 +12,7 @@ This schematic shows the complete circuit design for the light sensor subsystem.
 
 Figure 01. Schematic with all sections
 
-The schematic as a PDF download is available here <a href="https://github.com/Ludael02/gael_chavez.github.io/blob/6e7bb69e3538faa610510730b29799ddd4ec17e7/Final_GC_Schematic.pdf" download>"Schematic.PDF"</a>, and the ZIP folder of the project here.
+The schematic as a PDF download is available here <a href="[https://github.com/Ludael02/gael_chavez.github.io/blob/6e7bb69e3538faa610510730b29799ddd4ec17e7/Final_GC_Schematic.pdf](https://github.com/Ludael02/gael_chavez.github.io/releases/download/PDFs/Final_GC_Schematic.pdf)" download>"Schematic.PDF"</a>, and the ZIP folder of the project here.
 
 
 
