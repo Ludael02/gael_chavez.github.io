@@ -17,7 +17,7 @@ Figure 02. Front face of the PCB
 Figure 03. Back face of the PCB
 
 The PCB as PDF downloads are available here <a href="https://github.com/Ludael02/gael_chavez.github.io/releases/download/PDFs/Final_PCB_Both_Sided_GC.pdf" download>"PCB_Front_Back.PDF"</a>, <a href="https://github.com/Ludael02/gael_chavez.github.io/releases/download/PDFs/Final_PCB_Front_GC.pdf" download>"PCB_Front.PDF"</a> and <a href="https://github.com/Ludael02/gael_chavez.github.io/releases/download/PDFs/Final_PCB_Back_GC.pdf" download>"PCB_Back.PDF"</a>.
-The ZIP files for the PCB are available here
+The ZIP files for the PCB are available <a href="https://github.com/Ludael02/gael_chavez.github.io/releases/download/Zip/Final_GC.zip" download>here</a>
 
 
 
