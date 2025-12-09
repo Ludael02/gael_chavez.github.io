@@ -6,7 +6,7 @@ tags:
 ---
 
 ## Overview
-List of all needed individual aprts for the individual schematics, prices and detailed information
+List of all major components besides the microcontroller, prices and online information
 
 ## Bill of Materials Table
 
