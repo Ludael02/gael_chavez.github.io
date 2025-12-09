@@ -30,9 +30,13 @@ title: Component Selection
 
 **Choice:** Option 3: MCP6004-I/P
 
+**Rationale:** Our choice is option 3, since despite having previous experience with it, it also offers a greater number of circuits to assign in each respective system.
+
+
 ##Final Choices
 
 ##*Table 3: Final Choices for components*
+
 
 
 | **Solution**                                                                                                                                                                                      | **Pros**                                                                                                                                    | **Cons**                                                                                            |
@@ -41,7 +45,8 @@ title: Component Selection
 | ![](https://cdn-shop.adafruit.com/970x728/373-04.jpg)<br>\* No. 2 <br>\* 373 <br>\* $0.95/each <br>\* [Link to product](https://www.adafruit.com/product/373?srsltid=AfmBOoowceL9hpnlUrg40F7xIe7y11t3kkuIYalqNAnpM_p4fLbGrw-Z) | \* Small in size <br>\* Doesn't disconnect easily  <br> \* Easy pin acces | * Pins are fragile <br>\* Cheap material                                                       |
 | ![](https://mm.digikey.com/Volume0/opasdata/d220001/derivates/1/010/927/070/150%7EC04-005%7EP%2C-PD%7E14_sml.jpg)<br>\* No. 3 <br>\* MCP6004-I/P <br>\* $0.59/each <br>\* [Link to product](https://www.digikey.com/en/products/detail/microchip-technology/MCP6004-I-P/523060?gclsrc=aw.ds&gad_source=1&gad_campaignid=20228387720&gclid=EAIaIQobChMIvbiD1YO3kAMVdCzUAR3hOxDlEAQYAiABEgLkUPD_BwE) | \* Previous experience with this model <br>\* Great Temperature tolerance range <br> \* Ideal voltage range | * Limited to 4 circuits <br>\* Cheap Likely to burn                                                       |
 | ![](https://mm.digikey.com/Volume0/opasdata/d220001/derivates/1/030/749/623/MFG_TS02-Sm-BK-LCR_sml.jpg)<br>\* No. 4 <br>\* 2223-TS02-66-55-BK-100-LCR-D-ND <br>\* $0.1/each <br>\* [Link to product](https://www.digikey.com/en/products/detail/same-sky-formerly-cui-devices-/TS02-66-55-BK-100-LCR-D/15634297?gclsrc=aw.ds&gad_source=1&gad_campaignid=20243136172&gclid=Cj0KCQiAi9rJBhCYARIsALyPDtvSJqjQd7KnZh0Q93XOqvMLx6_tR0CS99fZer3lXk9lMK2Jz2sSdmEaAig7EALw_wcB) | \* Previous experience with this model <br>\* Cheap <br> \* Small | * pins are troublesome to work with <br>\* Brittle                                                     |
+| ![](https://mm.digikey.com/Volume0/opasdata/d220001/derivates/1/001/167/344/MFG_PDV-P8103_sml%28200x200%29.jpg)<br>\* No. 5 <br>\* PDV-P8103-ND <br>\* $0.7/each <br>\* [Link to product](https://www.digikey.com/en/products/detail/advanced-photonix/PDV-P8103/480610) | \* Previous experience with this model <br>\* Cheap <br> \* resistant | * Small <br>\* Small area of detection                                                    |
 
+**Rationale:** All of these were selected primarily based on prior experience with them in multiple classroom labs. There were delays in component orders, so materials that were already available and had yielded results were used.
 
-**Rationale:** Our choice is option 3, since despite having previous experience with it, it also offers a greater number of circuits to assign in each respective system.
 
