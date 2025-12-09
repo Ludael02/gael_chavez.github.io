@@ -1,12 +1,11 @@
 ---
-title: Component Selection Example
+title: Component Selection
 ---
 
 
 
-*Table 1: Force sensor*
+##*Table 1: Force sensor*
 
-**Internal Weight limit module**
 
 | **Solution**                                                                                                                                                                                      | **Pros**                                                                                                                                    | **Cons**                                                                                            |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
@@ -20,9 +19,8 @@ title: Component Selection Example
 
 
 
-*Table 2: Op Amp*
+##*Table 2: Op Amp*
 
-**Internal Weight limit module**
 
 | **Solution**                                                                                                                                                                                      | **Pros**                                                                                                                                    | **Cons**                                                                                            |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
@@ -31,6 +29,18 @@ title: Component Selection Example
 | ![](https://mm.digikey.com/Volume0/opasdata/d220001/derivates/1/010/927/070/150%7EC04-005%7EP%2C-PD%7E14_sml.jpg)<br>\* Option 3. <br>\* MCP6004-I/P <br>\* $0.59/each <br>\* [Link to product](https://www.digikey.com/en/products/detail/microchip-technology/MCP6004-I-P/523060?gclsrc=aw.ds&gad_source=1&gad_campaignid=20228387720&gclid=EAIaIQobChMIvbiD1YO3kAMVdCzUAR3hOxDlEAQYAiABEgLkUPD_BwE) | \* Previous experience with this model <br>\* Great Temperature tolerance range <br> \* Ideal voltage range | * Limited to 4 circuits <br>\* Cheap Likely to burn                                                       |
 
 **Choice:** Option 3: MCP6004-I/P
+
+##Final Choices
+
+##*Table 3: Final Choices for components*
+
+
+| **Solution**                                                                                                                                                                                      | **Pros**                                                                                                                                    | **Cons**                                                                                            |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
+| ![](https://mm.digikey.com/Volume0/opasdata/d220001/derivates/1/300/415/110/497~TO220-3TO220AB~~3_sml.jpg)<br>Option 1.<br> Linear Voltage Regulator IC Positive Fixed 1 Output 1.5A TO-220 <br>$0.46/each<br>[link to product](https://www.digikey.com/en/products/detail/stmicroelectronics/L7809ACV/1038255)                 | \*Inexpensive<br>\* Resistant <br>\* Previews experience with model                                               | \* Small <br>\* . |
+| ![](https://www.mouser.com/images/honeywell/lrg/FSG.jpg)<br>\* Option 2. <br>\* FSG005WNPB <br>\* $129.62/each <br>\* [Link to product](https://www.tti.com/content/ttiinc/en/apps/part-detail.html?partsNumber=FSG005WNPB&mfgShortname=HON&srsltid=AfmBOoqxZRMXxUbu3haqkQcgSzEY6cKdgm8rqvCJfbez0ZP6yMrMC1ZgK2Q) | \* Small in size <br>\* Low error percantage <br> \* Easy pin acces | * More expensive <br>\* Small sensor base                                                       |
+| ![](https://www.tekscan.com/sites/default/files/a201-main.jpg)<br>\* Option 3. <br>\* FlexiForce A201 Sensor <br>\* $153.16/8pack <br>\* [Link to product](https://www.tekscan.com/products-solutions/force-sensors/a201?utm_source=google&utm_medium=cpc&utm_campaign=shopping&utm_term=flexi&srsltid=AfmBOop3h7dcBe6WylGcv82oo1NJw9CDjoKWqct8cF7wpX0699rHpx7Y9GM&v=290) | \* Good weight tolerance <br>\* Great Temperature tolerance range <br> \* Lightweight | * Only available in 8packs <br>\* Hard pin access                                                       |
+
 
 **Rationale:** Our choice is option 3, since despite having previous experience with it, it also offers a greater number of circuits to assign in each respective system.
 
